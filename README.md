@@ -16,8 +16,8 @@ To create scripts yourself, I recommend the following resources from [MDK-SE](ht
 Available on Steam: [Workshop/2889157900](https://steamcommunity.com/sharedfiles/filedetails/?id=2889157900)
 
 
-## Automatic LCDs 2 (German) [v2.0184]
+## Automatic LCDs 2 (German) [v2.0186]
 > German translation of the script ['Automatic LCDs 2'](https://steamcommunity.com/sharedfiles/filedetails/?id=822950976) by MMaster.
 
-<a href="/Automatic LCDs 2 (German) [v2.0184]"><img src="/Automatic LCDs 2 (German) [v2.0184]/thumb.png" alt="Connector Guard" width="350px"></img></a>  
+<a href="/Automatic LCDs 2 (German) [v2.0186]"><img src="/Automatic LCDs 2 (German) [v2.0186]/thumb.png" alt="Connector Guard" width="350px"></img></a>  
 Available on Steam: [Workshop/2888116433](https://steamcommunity.com/sharedfiles/filedetails/?id=2888116433)
