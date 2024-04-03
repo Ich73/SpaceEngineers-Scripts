@@ -3,7 +3,7 @@
 # Automatic LCDs 2 (Deutsch/German) [v2.0191]
 > Deutsche Übersetzung des Skripts ['Automatic LCDs 2'](https://steamcommunity.com/sharedfiles/filedetails/?id=822950976) von MMaster.
 
-<img src="/Automatic LCDs 2 (German) [v2.0191]/thumb.png" alt="Connector Guard" width="350px"></img>  
+<img src="thumb.png" alt="Connector Guard" width="350px"></img>  
 Verfügbar auf Steam: [Workshop/2888116433](https://steamcommunity.com/sharedfiles/filedetails/?id=2888116433)
 
 

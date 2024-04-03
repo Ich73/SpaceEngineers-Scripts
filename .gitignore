@@ -3,6 +3,8 @@
 !/**/README.md
 !/**/Script.cs
 !/**/thumb.png
+!/**/*.png
+!/**/*.jpg
 !/**/metadata.mod
 !/.gitignore
 !LICENSE

@@ -3,7 +3,7 @@
 # Connector Guard
 > Script to monitor connectors and run timer blocks when the connector is being connected/disconnected/approached.
 
-<img src="/Connector Guard/thumb.png" alt="Connector Guard" width="350px"></img>  
+<img src="thumb.png" alt="Connector Guard" width="350px"></img>  
 Available on Steam: [Workshop/2889157900](https://steamcommunity.com/sharedfiles/filedetails/?id=2889157900)
 
 
@@ -42,4 +42,4 @@ onConnect: Timer Block 3
 ```
 
 A connector that runs "Timer Block Activate" on connect and "Timer Block Deactivate" on disconnect has custom data:
-<img src="https://user-images.githubusercontent.com/44297391/202052843-dd6cba5a-a8c7-4811-b888-56a759d93297.jpg" alt="Example" width="450px"></img>
+<img src="custom_data.jpg" alt="Example" width="450px"></img>
