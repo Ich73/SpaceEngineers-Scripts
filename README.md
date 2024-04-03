@@ -17,6 +17,13 @@ To create scripts yourself, I recommend the following resources from [MDK-SE](ht
 Available on Steam: [Workshop/3211334252](https://steamcommunity.com/sharedfiles/filedetails/?id=3211334252)
 
 
+## Shuttle Controller
+> Script to operate a shuttle that transports one resource on the outward journey and another resource on the return journey by monitoring free container space and (de-)activating sorters to load the ship with the required quantity. Designed to work with the <i>Shuttle Mode</i> of ['[PAM] Path Auto Miner'](https://steamcommunity.com/sharedfiles/filedetails/?id=1507646929) by Keks.
+
+<a href="/Shuttle Controller"><img src="/Shuttle Controller/thumb.png" alt="Shuttle Controller" width="350px"></img></a>  
+Available on Steam: [Workshop/3211336732](https://steamcommunity.com/sharedfiles/filedetails/?id=3211336732)
+
+
 ## Connector Guard
 > Script to monitor connectors and run timer blocks when the connector is being connected/disconnected/approached.
 
