@@ -9,6 +9,14 @@ To create scripts yourself, I recommend the following resources from [MDK-SE](ht
   * [The Grid Terminal System](https://github.com/malware-dev/MDK-SE/wiki/The-Grid-Terminal-System)
   * [Api Index](https://github.com/malware-dev/MDK-SE/wiki/Api-Index)
 
+
+## Ship Printer Controller
+> Script to automate a ship printer by controlling the pistons, welders and the projector.
+
+<a href="/Ship Printer Controller"><img src="/Ship Printer Controller/thumb.png" alt="Ship Printer Controller" width="350px"></img></a>  
+Available on Steam: [Workshop/3211334252](https://steamcommunity.com/sharedfiles/filedetails/?id=3211334252)
+
+
 ## Connector Guard
 > Script to monitor connectors and run timer blocks when the connector is being connected/disconnected/approached.
 
