@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Version-v2.0191-informational)
+![](https://img.shields.io/badge/Version-v2.0194-informational)
 [![](https://img.shields.io/badge/Steam-Workshop/2888116433-green)](https://steamcommunity.com/sharedfiles/filedetails/?id=2888116433)
-# Automatic LCDs 2 (Deutsch/German) [v2.0191]
+# Automatic LCDs 2 (Deutsch/German) [v2.0194]
 > Deutsche Übersetzung des Skripts ['Automatic LCDs 2'](https://steamcommunity.com/sharedfiles/filedetails/?id=822950976) von MMaster.
 
 <img src="thumb.png" alt="Connector Guard" width="350px"></img>  
