@@ -31,8 +31,8 @@ Available on Steam: [Workshop/3211336732](https://steamcommunity.com/sharedfiles
 Available on Steam: [Workshop/2889157900](https://steamcommunity.com/sharedfiles/filedetails/?id=2889157900)
 
 
-## Automatic LCDs 2 (German) [v2.0194]
+## Automatic LCDs 2 (German) [v2.0200]
 > German translation of the script ['Automatic LCDs 2'](https://steamcommunity.com/sharedfiles/filedetails/?id=822950976) by MMaster.
 
-<a href="/Automatic LCDs 2 (German) %5Bv2.0194%5D"><img src="/Automatic LCDs 2 (German) %5Bv2.0194%5D/thumb.png" alt="Automatic LCDs 2 (German) [v2.0194]" width="350px"></img></a>  
+<a href="/Automatic LCDs 2 (German) %5Bv2.0200%5D"><img src="/Automatic LCDs 2 (German) %5Bv2.0200%5D/thumb.png" alt="Automatic LCDs 2 (German) [v2.0200]" width="350px"></img></a>  
 Available on Steam: [Workshop/2888116433](https://steamcommunity.com/sharedfiles/filedetails/?id=2888116433)
